@@ -15,8 +15,7 @@
 <a href="https://discord.com/users/947787390771154974/">![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)</a>
 
 ### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
 
