@@ -7,6 +7,9 @@
 </a>
 
 - Currently working on:
+  - Auth Anticheat
+  - Auth Website
+  - Auth IP Lock System
 
 - Projects:
 
